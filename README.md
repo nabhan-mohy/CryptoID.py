@@ -18,7 +18,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/CryptoID.git
+git clone https://github.com/nabhan-mohy/CryptoID.py
 Install dependencies:
 
 bash
