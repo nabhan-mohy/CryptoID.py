@@ -43,5 +43,6 @@ Python 3.x
 bcrypt, hashlib, pyfiglet, and other dependencies listed in requirements.txt
 License:
 Distributed under the MIT License. See LICENSE for more information.
+![Screenshot_2025-01-18_02_17_28](https://github.com/user-attachments/assets/a91a5658-560c-44c2-a746-3aefef076450)
 
 
